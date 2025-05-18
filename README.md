@@ -14,3 +14,4 @@ Analysis of solar farm data for Benin, Sierra Leone, and Togo.
 - `tests/`: Unit tests
 - `scripts/`: Utility scripts
 - `data/`: Raw data
+
